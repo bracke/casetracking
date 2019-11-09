@@ -1,5 +1,4 @@
 # Casetracking
-Case and support system
 
 
 # Vision
