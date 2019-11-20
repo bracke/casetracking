@@ -13,7 +13,7 @@
 - AssignedToUser
 
 ### Customer
-- Title
+- Name
 - CreatedDate
 - CreatedBy
 
@@ -31,10 +31,13 @@
 - CreatedDate
 - CreatedBy
 
-### Company
+### State
 - CreatedDate
 - CreatedBy
 - Name
+- State
+
+
 
 ### Location
 - CreatedDate
@@ -50,12 +53,12 @@
 ### Priority
 - CreatedDate
 - CreatedBy
-- Title
+- Name
 - Priority
-
 
 ### User
 - CreatedDate
 - CreatedBy
 - Username
+- Password
 
