@@ -9,4 +9,4 @@
   - Adapt test prototype to use Ember-fire.
   
 ### Success Criteria
-- Successfull login/authentication with Firewire API in test prototyxpe.
+- Successfull login/authentication with Firewire API in test prototype.
