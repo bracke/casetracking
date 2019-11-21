@@ -6,4 +6,4 @@
 - [Datamodel](Iteration0/Datamodel.md)
 - [Sitestructure](Iteration0/Sitestructure.md)
 - [Project Backlog](Backlog.md)
-- [License](License.md)
+- [License](License)
