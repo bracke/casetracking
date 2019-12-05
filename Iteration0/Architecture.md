@@ -2,7 +2,7 @@
 The system is a Website implemented as a single-page JavaScript app. The app communicates with an API to POST and GET data using the REST protocol.
 
 ## Single-page app
-THe singe-page app is implemented using the EmberJS JavaScript framework.
+The singe-page app is implemented using the EmberJS JavaScript framework.
 
 ## Testing
 Testing is done using the tools build into Ember CLI, including QUnit.
@@ -22,8 +22,8 @@ Fetching the relevant text is done using ember-intl and @ember-intl/decorators. 
 
 
 ## Data API and Hosting
-THe app uses the Firebase data API and the app itself is hosted as static assets on Firebase.
-THe integraton with Firebase is implemented using the ember-fire addon.
+The app uses the Firebase data API and the app itself is hosted as static assets on Firebase.
+The integraton with Firebase is implemented using the ember-fire addon.
 
 ## Authentication
 Authentication is implemented using ember-fire combined with ember-simple-auth.
