@@ -33,7 +33,7 @@ All pages that require authentication are subroutes of the route 'authenticated'
 All style for components are done using CSS modules using the ember-css-modules addon.
 
 ## Deployment
-Deployment to Firebase is done using ember-cli-deploy with ember-cli-deploy-firebase.
+Deployment to Firebase is done using firebase-cli.
 
 ## Speed and Size Optimizations
 
